@@ -6,4 +6,4 @@ More updates!
 
 ## Repository purpose
 
-This is a local message
+This file is a readme file
